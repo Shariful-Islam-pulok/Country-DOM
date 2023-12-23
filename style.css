@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+.countryArea{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+
+.countyrLNG{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
